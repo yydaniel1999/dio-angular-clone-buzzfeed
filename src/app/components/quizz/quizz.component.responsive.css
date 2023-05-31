@@ -1,0 +1,8 @@
+@media (max-width: 600px) {
+  .quizz__container {
+    width: 90%;
+  }
+  .quizz__logo > img {
+    width: 100%;
+  }
+}
